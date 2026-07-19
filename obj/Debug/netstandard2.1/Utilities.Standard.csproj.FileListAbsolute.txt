@@ -1,0 +1,3 @@
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netstandard2.1\Utilities.Standard.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netstandard2.1\Utilities.Standard.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netstandard2.1\Utilities.Standard.AssemblyInfo.cs

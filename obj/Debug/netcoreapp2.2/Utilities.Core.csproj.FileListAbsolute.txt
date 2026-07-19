@@ -1,0 +1,4 @@
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp2.2\Utilities.Core.csprojAssemblyReference.cache
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp2.2\Utilities.Core.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp2.2\Utilities.Core.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp2.2\Utilities.Core.AssemblyInfo.cs

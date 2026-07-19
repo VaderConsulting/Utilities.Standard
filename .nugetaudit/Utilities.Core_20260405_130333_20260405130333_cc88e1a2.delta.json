@@ -1,0 +1,923 @@
+{
+  "CurrentSnapshotId": "20260405130333_cc88e1a2",
+  "PreviousSnapshotId": "20260405042106_9e35a869",
+  "IsChanged": true,
+  "ComparisonNote": null,
+  "Changes": [
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|MICROSOFT.CSHARP",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "Microsoft.CSharp",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [
+        "Microsoft.CSharp"
+      ],
+      "CurrentDependencyPath": [
+        "Microsoft.CSharp"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|NETCOREAPP3.1|NONE|MICROSOFT.CSHARP",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "Microsoft.CSharp",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": null,
+      "CurrentResolvedVersion": null,
+      "PreviousRequestedVersion": "4.7.0",
+      "CurrentRequestedVersion": "4.7.0",
+      "TargetFrameworkMoniker": "netcoreapp3.1",
+      "PreviousReferenceKind": "Direct",
+      "CurrentReferenceKind": "Direct",
+      "PreviousDependencyParents": [],
+      "CurrentDependencyParents": [],
+      "PreviousDependencyPath": [],
+      "CurrentDependencyPath": [],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|RUNTIME.LINUX-ARM.RUNTIME.NATIVE.SYSTEM.IO.PORTS",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "runtime.linux-arm.runtime.native.System.IO.Ports",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.linux-arm.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.linux-arm.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|RUNTIME.LINUX-ARM64.RUNTIME.NATIVE.SYSTEM.IO.PORTS",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "runtime.linux-arm64.runtime.native.System.IO.Ports",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.linux-arm64.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.linux-arm64.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|RUNTIME.LINUX-X64.RUNTIME.NATIVE.SYSTEM.IO.PORTS",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "runtime.linux-x64.runtime.native.System.IO.Ports",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.linux-x64.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.linux-x64.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|RUNTIME.NATIVE.SYSTEM.DATA.SQLCLIENT.SNI",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "runtime.native.System.Data.SqlClient.sni",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "System.Data.SqlClient"
+      ],
+      "CurrentDependencyParents": [
+        "System.Data.SqlClient"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.native.System.Data.SqlClient.sni",
+        "System.Data.SqlClient",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|RUNTIME.OSX-X64.RUNTIME.NATIVE.SYSTEM.IO.PORTS",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "runtime.osx-x64.runtime.native.System.IO.Ports",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "CurrentDependencyParents": [
+        "runtime.native.System.IO.Ports"
+      ],
+      "PreviousDependencyPath": [
+        "runtime.osx-x64.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "runtime.osx-x64.runtime.native.System.IO.Ports",
+        "runtime.native.System.IO.Ports",
+        "System.IO.Ports",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|SYSTEM.REFLECTION.EMIT",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "System.Reflection.Emit",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousDependencyPath": [
+        "System.Reflection.Emit",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "System.Reflection.Emit",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|SYSTEM.REFLECTION.EMIT.ILGENERATION",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "System.Reflection.Emit.ILGeneration",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousDependencyPath": [
+        "System.Reflection.Emit.ILGeneration",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "System.Reflection.Emit.ILGeneration",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    },
+    {
+      "StablePackageInstanceKey": "C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|C:/USERS/WINDO/ONEDRIVE/DOCUMENTS/DEVELOPMENT/UTILITIES.STANDARD/UTILITIES.CORE.CSPROJ|.NETCOREAPP,VERSION=V3.1|NONE|SYSTEM.REFLECTION.EMIT.LIGHTWEIGHT",
+      "ProjectName": "Utilities.Core",
+      "PackageId": "System.Reflection.Emit.Lightweight",
+      "ChangeType": "MetadataChanged",
+      "PreviousResolvedVersion": "4.7.0",
+      "CurrentResolvedVersion": "4.7.0",
+      "PreviousRequestedVersion": null,
+      "CurrentRequestedVersion": null,
+      "TargetFrameworkMoniker": ".NETCoreApp,Version=v3.1",
+      "PreviousReferenceKind": "Transitive",
+      "CurrentReferenceKind": "Transitive",
+      "PreviousDependencyParents": [
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyParents": [
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousDependencyPath": [
+        "System.Reflection.Emit.Lightweight",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "CurrentDependencyPath": [
+        "System.Reflection.Emit.Lightweight",
+        "Microsoft.Windows.Compatibility"
+      ],
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      }
+    }
+  ],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "Microsoft.CSharp",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.linux-arm.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.linux-arm64.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.linux-x64.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "runtime.osx-x64.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "System.Reflection.Emit",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "System.Reflection.Emit.ILGeneration",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    },
+    {
+      "PackageId": "System.Reflection.Emit.Lightweight",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T13:03:33.3263373+00:00",
+      "PreviousHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": false
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": null
+      },
+      "Summary": "Development status is now Active. Remediation guidance changed."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="..\Utilities\CueTextBox.cs" Link="CueTextBox.cs" />
+        <Compile Include="..\Utilities\Data.cs" Link="Data.cs" />
+        <Compile Include="..\Utilities\DataGridViewEx.cs" Link="DataGridViewEx.cs" />
+        <Compile Include="..\Utilities\DataTransferEventArgs.cs" Link="DataTransferEventArgs.cs" />
+        <Compile Include="..\Utilities\DrawTextToBitmap.cs" Link="DrawTextToBitmap.cs" />
+        <Compile Include="..\Utilities\Extensions.cs" Link="Extensions.cs" />
+        <Compile Include="..\Utilities\ListboxItem.cs" Link="ListboxItem.cs" />
+        <Compile Include="..\Utilities\Marquee.cs" Link="Marquee.cs" />
+        <Compile Include="..\Utilities\Serial.cs" Link="Serial.cs" />
+        <Compile Include="..\Utilities\TransparentTableLayoutPanel.cs" Link="TransparentTableLayoutPanel.cs" />
+        <Compile Include="..\Utilities\TriggeredQueue.cs" Link="TriggeredQueue.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+        <PackageReference Include="Microsoft.NETCore.Platforms" Version="3.1.2" />
+        <PackageReference Include="Microsoft.Windows.Compatibility" Version="3.1.1" />
+        <PackageReference Include="System.Data.Common" Version="4.3.0" />
+        <PackageReference Include="System.Data.DataSetExtensions" Version="4.6.0-preview3.19128.7" />
+        <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+        <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+        <PackageReference Include="System.Drawing.Primitives" Version="4.3.0" />
+    </ItemGroup>
+
+</Project>

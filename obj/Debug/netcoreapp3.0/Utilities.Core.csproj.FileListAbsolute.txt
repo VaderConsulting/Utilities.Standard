@@ -1,0 +1,17 @@
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\Utilities.Core.deps.json
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\Utilities.Core.dll
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\Utilities.Core.pdb
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\System.Windows.Forms.dll
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\Accessibility.dll
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\System.Deployment.dll
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\System.Windows.Forms.xml
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\Accessibility.xml
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\System.Deployment.xml
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\bin\Debug\netcoreapp3.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp3.0\Utilities.Core.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp3.0\Utilities.Core.AssemblyInfo.cs
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp3.0\Utilities.Core.csproj.CopyComplete
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp3.0\Utilities.Core.dll
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp3.0\Utilities.Core.pdb
+C:\Users\windo\OneDrive\VS Projects\Utilities.Standard\obj\Debug\netcoreapp3.0\Utilities.Core.csprojAssemblyReference.cache

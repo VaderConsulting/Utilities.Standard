@@ -1,0 +1,1927 @@
+{
+  "CurrentSnapshotId": "20260405042106_9e35a869",
+  "PreviousSnapshotId": null,
+  "IsChanged": false,
+  "ComparisonNote": null,
+  "Changes": [],
+  "DependencyEdgeChanges": [],
+  "KnowledgeChanges": [
+    {
+      "PackageId": "Microsoft.CSharp",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Microsoft.NETCore.Platforms",
+      "ResolvedVersion": "3.1.2",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "3.1.12",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "3.1.12",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 3.1.12."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Microsoft.NETCore.Targets",
+      "ResolvedVersion": "1.1.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "1.1.4",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "1.1.4",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 1.1.4."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Microsoft.Win32.Registry",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "5.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 5.0.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Microsoft.Win32.Registry.AccessControl",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Microsoft.Win32.SystemEvents",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "Microsoft.Windows.Compatibility",
+      "ResolvedVersion": "3.1.1",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.linux-arm.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.linux-arm64.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.linux-x64.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.osx-x64.runtime.native.System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.4.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.win-x64.runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.4.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "runtime.win-x86.runtime.native.System.Data.SqlClient.sni",
+      "ResolvedVersion": "4.4.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.4.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.CodeDom",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Collections",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ComponentModel.Composition",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ComponentModel.Composition.Registration",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Configuration.ConfigurationManager",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Data.Common",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Data.Odbc",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Data.OleDb",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Data.SqlClient",
+      "ResolvedVersion": "4.8.2",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.9.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.9.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.9.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Diagnostics.EventLog",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Diagnostics.PerformanceCounter",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.DirectoryServices",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.DirectoryServices.AccountManagement",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.DirectoryServices.Protocols",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Drawing.Common",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Drawing.Primitives",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Globalization",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.IO",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.IO.FileSystem.AccessControl",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "5.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 5.0.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.IO.Packaging",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.IO.Pipes.AccessControl",
+      "ResolvedVersion": "4.5.1",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "5.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 5.0.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.IO.Ports",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Management",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Private.ServiceModel",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.10.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.10.3",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.10.3."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection.Context",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection.DispatchProxy",
+      "ResolvedVersion": "4.5.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.8.2",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.8.2",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.8.2."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection.Emit",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection.Emit.ILGeneration",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection.Emit.Lightweight",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.7.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Reflection.Primitives",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Resources.ResourceManager",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Runtime",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.3.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.3.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Runtime.Caching",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Runtime.Extensions",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.3.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.3.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.AccessControl",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "6.0.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 6.0.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Cng",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "5.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 5.0.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Pkcs",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.Cryptography.ProtectedData",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.Cryptography.Xml",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.Permissions",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Security.Principal.Windows",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "5.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "5.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 5.0.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceModel.Duplex",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.10.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.10.3",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.10.3."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceModel.Http",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.652802",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.652802",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.652802."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceModel.NetTcp",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.652802",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.652802",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.652802."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceModel.Primitives",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.652802",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.652802",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.652802."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceModel.Security",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.10.3",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.10.3",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.10.3."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceModel.Syndication",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.ServiceProcess.ServiceController",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Text.Encoding",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Text.Encoding.CodePages",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Text.RegularExpressions",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.1",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "4.3.1",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 4.3.1."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Threading.AccessControl",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "10.0.5",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "10.0.5",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 10.0.5."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Threading.Tasks",
+      "ResolvedVersion": "4.3.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": false,
+        "IsVulnerable": false,
+        "LatestStableVersion": "4.3.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Abandoned",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Latest compatible stable release is more than a year old on nuget.org; evaluate maintenance and alternatives."
+      },
+      "Summary": "Attention is now required for this package version."
+    },
+    {
+      "PackageId": "System.Windows.Extensions",
+      "ResolvedVersion": "4.7.0",
+      "DeterminedUtc": "2026-04-05T04:21:06.6034724+00:00",
+      "PreviousHealthInfo": null,
+      "CurrentHealthInfo": {
+        "IsDeprecated": false,
+        "IsObsolete": false,
+        "IsOutdated": true,
+        "IsVulnerable": false,
+        "LatestStableVersion": "6.0.0",
+        "DeprecationMessage": null,
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "MaxVulnerabilitySeverity": "None",
+        "Vulnerabilities": [],
+        "DevelopmentStatus": "Active",
+        "RequiresAttention": true
+      },
+      "Remediation": {
+        "RecommendedVersion": "6.0.0",
+        "AlternatePackageId": null,
+        "AlternatePackageRange": null,
+        "Summary": "Upgrade to 6.0.0."
+      },
+      "Summary": "Attention is now required for this package version."
+    }
+  ]
+}
