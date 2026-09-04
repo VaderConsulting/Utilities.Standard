@@ -19,3 +19,8 @@ A cross-platform (.NET Core 3.1) build of the **Utilities** library, using `Micr
 `CueTextBox`, `Data`, `DataGridViewEx`, `DataTransferEventArgs`, `TextDrawing`, `Extensions`, `ListboxItem`, `Marquee`, `Serial`, `TransparentTableLayoutPanel`, `TriggeredQueue`
 
 > For full API documentation see the [Utilities](../Utilities) project.
+
+## Requirements
+
+- netcoreapp3.1
+
