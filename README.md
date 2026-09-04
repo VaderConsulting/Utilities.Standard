@@ -1,9 +1,8 @@
-﻿# Utilities.Standard
-
-**Source last updated:** 2020-08-31
+# Utilities.Standard
 
 A cross-platform (.NET Core 3.1) build of the **Utilities** library, using `Microsoft.Windows.Compatibility` for WinForms support.
 
+**Source last updated:** 2020-08-31
 **Initiated:** 2019-08-03 · **Target Framework:** .NET Core 3.1
 
 ---
