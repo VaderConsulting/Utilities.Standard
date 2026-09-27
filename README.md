@@ -38,6 +38,8 @@ Clone [VaderConsulting/Utilities](https://github.com/VaderConsulting/Utilities) 
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `Utilities.Standard`.
 
 ## License
